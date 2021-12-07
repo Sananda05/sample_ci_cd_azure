@@ -1,0 +1,24 @@
+{
+  "name": "sample_ci_cd_azure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sananda05/sample_ci_cd_azure.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sananda05/sample_ci_cd_azure/issues"
+  },
+  "homepage": "https://github.com/Sananda05/sample_ci_cd_azure#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
